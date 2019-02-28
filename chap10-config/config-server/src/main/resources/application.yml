@@ -8,10 +8,10 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/cralor7/springcloud
+          uri: https://github.com/shenzhuan/springcloud
           search-paths: config-repo
-         # username:
-         # password:
+          username: 1439226817@qq.com
+          password: shen@913656048
           default-label: master
     bus:
       trace:
