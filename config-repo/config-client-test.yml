@@ -1,1 +1,6 @@
 foo: ${zk.url}
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: ${eureka.client.defaultZone}

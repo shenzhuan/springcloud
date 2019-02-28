@@ -16,10 +16,6 @@ spring:
         enabled: true
       enabled: true
 
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: ${eureka.client.serviceUrl.defaultZone}
 
 management:
   endpoints:
