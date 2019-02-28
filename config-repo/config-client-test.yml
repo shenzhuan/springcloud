@@ -1,1 +1,1 @@
-foo: foo version 7444
+foo: ${zk.url}
