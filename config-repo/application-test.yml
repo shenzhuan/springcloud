@@ -1,5 +1,4 @@
-zk:
-  url: zookeeper://172.31.100.175:2182
+zk.url: zookeeper://172.31.100.175:2182
   servers: 172.31.100.175:2182
   sessionTimeoutMs: 30000
   syncTimeMs: 5000
